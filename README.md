@@ -1,16 +1,13 @@
-### Hi there 👋
+# Gustavo Rebelo Godoy
 
-<!--
-**Gussrg/Gussrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistesmas na FATEC Baixada Santista, buscando desenvolver minhas habilidades e em busca de novos desafios.
 
-Here are some ideas to get you started:
+### Conecte-se comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gustavo-rebelo-godoy-b8528612a/)
+
+### Habilidades
+
+[![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)]()
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://github.com/Gussrg/SCM)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
