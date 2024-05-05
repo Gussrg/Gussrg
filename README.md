@@ -8,6 +8,6 @@ Estudante de Análise e Desenvolvimento de Sistesmas na FATEC Baixada Santista, 
 
 ### Habilidades
 
-[![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)]()
+[![JAVA](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)](https://github.com/Gussrg/FATEC-Aulas)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://github.com/Gussrg/SCM)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://github.com/Gussrg/SCM)
